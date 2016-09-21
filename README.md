@@ -1,5 +1,7 @@
 # Course Experience App (ExportCEA)
 
+Java GUI mockup of [this Web App](https://github.com/nigef/CEA-Course-Recommender).
+
 ## Usage Instructions
 
 
